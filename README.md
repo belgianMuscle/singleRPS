@@ -7,7 +7,7 @@ The game is played as a single player against the "computer", which plays in a r
 
 ## How to play
 
-A live version of the game is located at https://singleRPS.davidbellers.me 
+A live version of the game is located at https://singleRPS.davidbellers.me or also https://belgianmuscle.github.io/singleRPS/
 
 It is also possible to play the game locally, this can be done by copying the repository to your local machine and executing the index.html page. 
 
